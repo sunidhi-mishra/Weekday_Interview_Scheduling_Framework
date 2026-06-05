@@ -4,7 +4,6 @@
 
 A systems-driven interview scheduling framework designed to achieve **80% interview booking within 24 hours** using only **two college interns** while handling **500+ daily scheduling requests** from **100 partner companies**.
 
-This project was created as a Product & Operations Design case study for Weekday's scheduling assignment.
 
 ## 🚩 Problem Statement
 
